@@ -4,12 +4,6 @@ A full-featured **MERN Stack** (MongoDB, Express, React, Node.js) project with s
 
 ---
 
-## 🌐 Live Experience
-
-> Users must **Signup/Login** to access your portfolio page.
-
----
-
 ## 👁‍🗨️ Overview
 
 * **JWT Auth System** with secure token storage
